@@ -48,6 +48,11 @@ a {
     color: inherit;
 }
 
+
+.color-blue{
+    color: #2563EB;
+}
+
 /* HEADER */
 .header {
     border-bottom: 1px solid #E5E7EB;
